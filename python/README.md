@@ -11,6 +11,7 @@
 ### tqdm
 > 2024\. 05\. 30
 > [블로그 링크 1](https://giliit.tistory.com/entry/Python-tqdm-Python%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%EB%A5%A0%EC%9D%84-%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%8B%9C)
+<br>
 > [블로그 링크 2](https://giliit.tistory.com/entry/Python-Progress-Bartqdm%EC%9D%84-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EC%B6%9C%EB%A0%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 
 ### typing
